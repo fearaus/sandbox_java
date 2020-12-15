@@ -1,0 +1,12 @@
+
+I
+java:S1481"'Remove this unused "mt" local variable.(«ã¼çüÿÿÿÿ8”öŸ±Ô.
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78÷œ£±Ô.
+}
+java:S1217
+"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(‡¢ñÛ8•¶ü°Ô.
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(»£È€8”öŸ±Ô.
+X
+java:S1854"6Remove this useless assignment to local variable "mt".(«ã¼çüÿÿÿÿ8”öŸ±Ô.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›Óð°þÿÿÿÿ8ÝÓú°Ô.

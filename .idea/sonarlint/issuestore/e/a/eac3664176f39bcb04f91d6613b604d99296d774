@@ -1,0 +1,11 @@
+
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(ÙŸİ8®ÉÍ×ã.
+g	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(Í¢Úşÿÿÿÿ8Âê¿×ã.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(½Œú8ğé™×ã.
+
+java:S1130	"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(­Ëê8ÚæÏ×ã.
+]	java:S125"<This block of commented-out lines of code should be removed.(ä¤ÿ¼ÿÿÿÿÿ8Ø¿©×ã.
+”
+java:S1130	"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(­Ëê8ÓºĞ×ã.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ó¸Á¶ùÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(øŠÔç8Ø¿©×ã.
