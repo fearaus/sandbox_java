@@ -18,7 +18,7 @@ public class CollectionJoin {
                 })
                 .collect(Collectors.joining(" "));
 
-        System.out.println("===>"+ result);
+        System.out.println("=>"+ result);
 
     }
 
