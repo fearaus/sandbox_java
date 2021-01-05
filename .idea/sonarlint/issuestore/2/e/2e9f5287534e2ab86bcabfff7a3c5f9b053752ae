@@ -1,7 +1,0 @@
-
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ8Þ—ñ¡Ë.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(öø¢¥øÿÿÿÿ8Òõó¡Ë.
-7
-java:S1220""Move this file to a named package.8Þ‡ñ¡Ë.
-I
-java:S1905"'Remove this unnecessary cast to "long".(öø¢¥øÿÿÿÿ8¹®ö¡Ë.

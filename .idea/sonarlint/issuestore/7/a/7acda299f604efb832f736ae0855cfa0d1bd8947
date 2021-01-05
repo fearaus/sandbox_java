@@ -1,12 +1,0 @@
-
-E
-java:S1481
-")Remove this unused "test" local variable.(ÂÀ¦
-8¢¼şÁã.
-b
-java:S2259"FA "NullPointerException" could be thrown; "testNull" is nullable here.(Ø»¦8ßÔ†Âã.
-T
-java:S1854
-"8Remove this useless assignment to local variable "test".(ÂÀ¦
-8¢¼şÁã.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(Ø»¦8ßÔ†Âã.
