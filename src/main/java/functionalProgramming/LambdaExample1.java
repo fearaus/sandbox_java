@@ -1,4 +1,4 @@
-package udemy.functional;
+package functionalProgramming;
 
 public class LambdaExample1 {
 

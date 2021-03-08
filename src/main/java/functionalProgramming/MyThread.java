@@ -1,4 +1,4 @@
-package udemy.functional;
+package functionalProgramming;
 
 public class MyThread implements Runnable {
     @Override
