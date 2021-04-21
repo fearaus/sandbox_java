@@ -28,12 +28,23 @@ public class Keygen {
         System.out.println("encode byte" + secretKey.getEncoded());
         String secret = Hex.encodeHexString(secretKey.getEncoded());
         System.out.println("convert byte to Hexstring:" + secret);
-        
-        String enctdata = encrypt("helloworld",secret);
-        System.out.println("ecrypt data " + enctdata);
 
-        String resultDecrypt = decrypt(enctdata, secret);
-        System.out.println("decrypt data " + resultDecrypt);
+
+
+
+        // TEST AREA
+
+        secret = "not specified";
+        String encrypData = "4eoA/iKgrZbdiajiYTO+AA==";
+
+        //String enctdata = encrypt("PJMWxWRq2GZrDkMmdQC62A==",secret);
+        System.out.println("ecrypt data " + encrypData);
+
+        //String resultDecrypt = decrypt (     encrypData, secret);
+        //System.out.println("decrypt data " + resultDecrypt);
+
+
+        encrypt("koko",secret);
 
 
 
@@ -76,9 +87,7 @@ public class Keygen {
             return new String(decValue);
         } catch (Exception ex) {
             throw new RuntimeException("decryption failure :" + ex.getMessage());
-
         }
-
     }
 
     /**
